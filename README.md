@@ -1,5 +1,5 @@
 <h1 align="center">Hi ‹, I'm Krishna Rajbhar</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Developer | Node Js | Express Js | React Js | MongoDB | Aspiring software engineer seeking an Job / Internship.</h3>
 
 - ðŸ”­ Iâ€™m currently working on [E-Commerce Frontend App](https://github.com/krishnrajbhar/e-commerce-app-new.git)
 
