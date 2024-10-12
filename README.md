@@ -13,7 +13,13 @@
 
 - ðŸ“„ Know about my experiences [https://drive.google.com/file/d/10Egok_uL4RjsU2J36s1PmPwFmIltLlDi/view?usp=drive_link](https://drive.google.com/file/d/10Egok_uL4RjsU2J36s1PmPwFmIltLlDi/view?usp=drive_link)
 
-- âš¡ Fun fact **I think ,I'm funny and also curious about learning new things.**
+- âš¡ Fun fact **I think ,I'm funny and serious about my work because I have worked on Frontend technologies - ( HTML5, CSS3, Javascript, React js, Express js , Git and GitHub, Bootstrap and tailwing ) and Backend Technologies ( Node js, MongoDB, SQL, JSP and Servlet ) for almost a year and had done ( Several Projects ).
+
+Projects - E-Commerce Website, Real Time Chat Web App, Netflix Clone using MERN Stack.
+
+I have Certificate of Excellence for C++ language on Scalar Academy.
+
+💼 Aspiring for a challenging career in Software Development as to use my learned skills and experience for best results.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
