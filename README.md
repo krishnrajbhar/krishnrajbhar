@@ -1,12 +1,12 @@
-![logo](https://www.canva.com/design/DAGToMGmkcg/JtNru4KRO1N_sGG-8Dab4A/edit?utm_content=DAGToMGmkcg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://media.licdn.com/dms/image/v2/D5616AQGVmQopuq3XvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728712742062?e=1734566400&v=beta&t=sQaU-D63JYQo_h6gl7drFnvleGDoko78iTo-c_UmWM8)
 <h1 align="center">Hi 👋, I'm Krishna Rajbhar</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">MERN Stack Developer | Aspiring for a challenging career in Software Development as to use my learned skills and experience for best results.</h3>
 
 <img align="right" alt="no image" width="400" src="https://raw.githubusercontent.com/rexdivakar/rexdivakar/master/assets/dev.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnrajbhar&label=Profile%20views&color=0e75b6&style=flat" alt="krishnrajbhar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/rajbharkrishn" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/rajbharkrishn?logo=twitter&style=for-the-badge" alt="https://x.com/rajbharkrishn" /></a> </p>
+
 
 - 🔭 I’m currently working on [E-Commerce Frontend App](https://github.com/krishnrajbhar/e-commerce-app-new.git)
 
