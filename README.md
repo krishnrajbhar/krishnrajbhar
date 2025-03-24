@@ -1,4 +1,3 @@
-![logo](https://media.licdn.com/dms/image/v2/D5616AQGVmQopuq3XvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728712742062?e=1734566400&v=beta&t=sQaU-D63JYQo_h6gl7drFnvleGDoko78iTo-c_UmWM8)
 <h1 align="center">Hi 👋, I'm Krishna Rajbhar</h1>
 <h3 align="center">MERN Stack Developer | Aspiring for a challenging career in Software Development as to use my learned skills and experience for best results.</h3>
 
